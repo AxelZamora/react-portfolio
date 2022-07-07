@@ -34,10 +34,10 @@ const Work = () => {
 						<div className="opacity-0 group-hover:opacity-100">
 							<span className="text-2xl font-bold text-white tracking-wider">React Portfolio</span>
 							<div className="pt-8 text-center">
-								<a href="/">
+								<a href="https://axelzamora.github.io/react-portfolio/">
 									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
 								</a>
-								<a href="/" target="_blank" rel="noreferrer">
+								<a href="https://github.com/AxelZamora/react-portfolio" target="_blank" rel="noreferrer">
 									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
 								</a>
 							</div>

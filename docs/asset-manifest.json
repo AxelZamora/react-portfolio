@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.6862c41d.css",
-    "main.js": "/react-portfolio/static/js/main.562e6cf1.js",
+    "main.js": "/react-portfolio/static/js/main.9b3d8770.js",
     "static/media/GifExpertApp.png": "/react-portfolio/static/media/GifExpertApp.5ca35d9a72559d1b6919.png",
     "static/media/weatherapp.png": "/react-portfolio/static/media/weatherapp.61fd339932205d50e35d.png",
     "static/media/Portfolio.png": "/react-portfolio/static/media/Portfolio.b9e0f1422c8a6da14d56.png",
     "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/todoapp.png": "/react-portfolio/static/media/todoapp.2800e4cd48a5bff37ea6.png",
     "static/media/mongo.png": "/react-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/logo.png": "/react-portfolio/static/media/logo.b5c9f0dfb16a53b61982.png",
@@ -16,10 +17,10 @@
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
     "main.6862c41d.css.map": "/react-portfolio/static/css/main.6862c41d.css.map",
-    "main.562e6cf1.js.map": "/react-portfolio/static/js/main.562e6cf1.js.map"
+    "main.9b3d8770.js.map": "/react-portfolio/static/js/main.9b3d8770.js.map"
   },
   "entrypoints": [
     "static/css/main.6862c41d.css",
-    "static/js/main.562e6cf1.js"
+    "static/js/main.9b3d8770.js"
   ]
 }

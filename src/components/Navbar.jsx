@@ -10,7 +10,7 @@ const Navbar = () => {
 	const handleClick = () => setNav(!nav)
 
 	return (
-		<div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
+		<div className="fixed w-full h-[60px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
 			<Link to="home" smooth={true} duration={500}>
 				<img src={Logo} alt="Logo" style={{ width: '60px' }} className="pt-2 hover:cursor-pointer" />
 			</Link>

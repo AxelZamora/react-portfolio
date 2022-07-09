@@ -21,10 +21,10 @@ const Work = () => {
 							<span className="text-2xl font-bold text-white tracking-wider">Gif React App</span>
 							<div className="pt-8 text-center">
 								<a href="https://axelzamora.github.io/react-gif-expert/" target="_blank" rel="noreferrer">
-									<button className="text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
+									<button className="text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg">+ Demo</button>
 								</a>
 								<a href="https://github.com/AxelZamora/react-gif-expert" target="_blank" rel="noreferrer">
-									<button className="text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
+									<button className="text-center rounded-lg px-4 py-2 m-2 bg-white text-gray-700 font-bold text-lg">+ Code</button>
 								</a>
 							</div>
 						</div>
@@ -36,10 +36,10 @@ const Work = () => {
 							<span className="text-2xl font-bold text-white tracking-wider">React Portfolio</span>
 							<div className="pt-8 text-center">
 								<a href="https://axelzamora.github.io/react-portfolio/">
-									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
+									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">+ Demo</button>
 								</a>
 								<a href="https://github.com/AxelZamora/react-portfolio" target="_blank" rel="noreferrer">
-									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
+									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">+ Code</button>
 								</a>
 							</div>
 						</div>
@@ -51,10 +51,10 @@ const Work = () => {
 							<span className="text-2xl font-bold text-white tracking-wider">Weather React App</span>
 							<div className="pt-8 text-center">
 								<a href="https://axelzamora.github.io/weatherApp-react/" target="_blank" rel="noreferrer">
-									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
+									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">+ Demo</button>
 								</a>
 								<a href="https://github.com/AxelZamora/weatherApp-react" target="_blank" rel="noreferrer">
-									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
+									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">+ Code</button>
 								</a>
 							</div>
 						</div>

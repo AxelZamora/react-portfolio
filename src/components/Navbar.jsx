@@ -74,12 +74,12 @@ const Navbar = () => {
 						</a>
 					</li>
 					<li className="w-[160px] h-[40px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#862c2d]">
-						<a className="flex justify-between items-center w-full text-gray-300" href="https://mail.google.com/mail/?view=cm&source=mailto&to=canisma303@gmail.com" target="_blank" rel="noreferrer">
+						<a className="flex justify-between items-center w-full text-gray-300" href="https://mail.google.com/mail/?view=cm&source=mailto&to=axarzamora@gmail.com" target="_blank" rel="noreferrer">
 							Email <HiOutlineMail size={30} />
 						</a>
 					</li>
 					<li className="w-[160px] h-[40px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
-						<a className="flex justify-between items-center w-full text-gray-300" href="https://drive.google.com/file/d/1iGSD6dH9cbqYf2mJMG3-E676u8Ui4tHd/view?usp=sharing" target="_blank" rel="noreferrer">
+						<a className="flex justify-between items-center w-full text-gray-300" href="https://drive.google.com/file/d/1SAIiuqxtkK3sW2doS6dCUT_5w7JoXS7b/view?usp=sharing" target="_blank" rel="noreferrer">
 							Resume <BsFillPersonLinesFill size={30} />
 						</a>
 					</li>

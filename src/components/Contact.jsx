@@ -29,7 +29,7 @@ const Contact = () => {
 				<a className="flex justify-between  w-auto p-2 text-gray-300 hover:scale-110 duration-500" href="https://mail.google.com/mail/?view=cm&source=mailto&to=axarzamora@gmail.com" target="_blank" rel="noreferrer">
 					<HiOutlineMail size={30} />
 				</a>
-				<a className="flex justify-between  w-auto p-2 text-gray-300 hover:scale-110 duration-500" href="https://drive.google.com/file/d/1SAIiuqxtkK3sW2doS6dCUT_5w7JoXS7b/view?usp=sharing" target="_blank" rel="noreferrer">
+				<a className="flex justify-between  w-auto p-2 text-gray-300 hover:scale-110 duration-500" href="https://drive.google.com/file/d/1767XuuEh-0hEZz-eIcLl-3NBA4hCe-z5/view?usp=sharing" target="_blank" rel="noreferrer">
 					<BsFillPersonLinesFill size={30} />
 				</a>
 			</div>
